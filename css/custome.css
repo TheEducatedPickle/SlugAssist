@@ -1,0 +1,17 @@
+body{
+	background-color: #EEEEEE;
+}
+
+h2{
+	color: #000000;
+}
+
+.navbar{
+	background-color: #DDDDDD;
+}
+
+.btn{
+	background-color:#34ace0;
+	color: #FFFFFF;
+	border: none;
+}
